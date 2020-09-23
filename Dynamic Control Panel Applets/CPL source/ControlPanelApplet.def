@@ -1,0 +1,6 @@
+;Dynamic Control Panel Applet
+LIBRARY      "ControlPanelApplet"
+DESCRIPTION  'Dynamic Control Panel Applet'
+
+EXPORTS
+    CPlApplet 

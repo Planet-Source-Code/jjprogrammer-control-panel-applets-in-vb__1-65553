@@ -1,0 +1,3 @@
+LIBRARY ControlPanelVB
+EXPORTS
+    CPlApplet
